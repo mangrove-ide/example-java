@@ -1,0 +1,9 @@
+node_modules/
+dist/
+target/
+*.sqlite
+*.sqlite-journal
+backend/data/
+.idea/
+*.iml
+backend/.mvn/wrapper/maven-wrapper.jar
